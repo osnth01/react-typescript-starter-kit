@@ -1,0 +1,35 @@
+{
+  "name": "react-typescript-starter-kit",
+  "version": "1.0.0",
+  "description": "Boilerplate for future apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osnth01/react-typescript-starter-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osnth01/react-typescript-starter-kit/issues"
+  },
+  "homepage": "https://github.com/osnth01/react-typescript-starter-kit#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.7",
+    "@types/react-dom": "^16.0.6",
+    "@types/webpack": "^4.4.9",
+    "@types/webpack-dev-server": "^2.9.5",
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.0.1",
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
+}
